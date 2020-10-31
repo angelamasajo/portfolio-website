@@ -14,7 +14,7 @@ header p {
 }
 
 
-/* change this later */
+/* main background color */
 body {
   background-color: #f5f4f6;
 }
@@ -41,7 +41,7 @@ header div {
   margin: 0px;
 }
 
-/*go back to this ONEEEEE*/
+/*middle background of the main page - same*/
 main div {
   background-color: #f5f4f6;
   padding: 20px;
@@ -73,6 +73,7 @@ hr {
   color: white;
 }
 
+/*footer elements*/
 footer {
   background-color:#EBE9ED;
   width: 100%;
